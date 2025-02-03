@@ -1,6 +1,6 @@
 # RTSP and RTP streaming
 
- Python implementation of the programming assignment 6 of Foundations of Networks course at RIT
+ Python implementation of the programming assignment 6 of Foundations of Networks course
  
  Implements basic RTSP and RTP streaming functionality using the standard Python 3 library, plus [PyQt5](https://pypi.org/project/PyQt5/) and [Pillow](https://github.com/python-pillow/Pillow) for stuff related to GUI. Error handling is very minimal, reopening the server and client is required to run another session.
 
